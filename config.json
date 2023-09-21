@@ -1,0 +1,8 @@
+{
+    "server": "irc.example.com",
+    "channels": "#channel1,#channel2,#channel3",
+    "port": 6667,
+    "telegram_channel_id": "YOUR_TELEGRAM_CHANNEL_ID",
+    "api_id": "YOUR_API_ID",
+    "api_hash": "YOUR_API_HASH"
+}
