@@ -25,7 +25,7 @@ This Python program serves as an IRC to Telegram bridge, allowing messages from 
    - Run the Python script, and it will read the configuration from `config.json` and establish connections to the IRC server and Telegram.
    - It continuously monitors IRC channels for messages matching a specified pattern and forwards them to the Telegram channel.
 
-3. **Improvements:**
+3. **To Do:**
    - **Error Handling:** Enhance error handling and logging for better error reporting and recovery.
    - **Dynamic Configuration:** Implement the ability to update configuration values while the program is running.
    - **Message Rate Limiting:** Implement message rate limiting to prevent flooding the Telegram channel.
